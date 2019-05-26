@@ -106,19 +106,19 @@ projects:
     assignments:
       - title: Folder Gallery
         link: "https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery"
-        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that. <br> <div ><a class='link-grey' href='https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml'>https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery</a></div>"
+        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that. <br> <div ><a target='_blank' class='link-grey' href='https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery'>https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery</a></div>"
 
       - title: ITER - International Thermonuclear Experimental Reactor
         link: "https://www.iter.org"
-        tagline: "ITER, is a joint effort from 7 countries to build the worlds first Fusion powered nuclear reactor. I worked on customized industrial SCADA system that was used to configure the powerplant. <br> <div ><a class='link-grey' href='https://www.iter.org'>https://www.iter.org</a></div>"
+        tagline: "ITER, is a joint effort from 7 countries to build the worlds first Fusion powered nuclear reactor. I worked on customized industrial SCADA system that was used to configure the powerplant. <br> <div ><a target='_blank' class='link-grey' href='https://www.iter.org'>https://www.iter.org</a></div>"
 
       - title: SimGuard
         link: "https://github.com/sagarsiddhpura/SIMGuard"
-        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off. It was made as a part of compedition from YU smartphone OEM and I won <b>2nd place all over India</b> for this app. <br> <div ><a class='link-grey' href='https://github.com/sagarsiddhpura/SIMGuard'>https://github.com/sagarsiddhpura/SIMGuard</a></div>"
+        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off. It was made as a part of compedition from YU smartphone OEM and I won <b>2nd place all over India</b> for this app. <br> <div ><a target='_blank' class='link-grey' href='https://github.com/sagarsiddhpura/SIMGuard'>https://github.com/sagarsiddhpura/SIMGuard</a></div>"
 
       - title: Mazda3 Hybrid car infotainment system
         link: "https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml"
-        tagline: "I was part of team who developed Infortainment touchscreen software for Hybrid car Mazda3, launched in 2013. <br> <div ><a class='link-grey' href='https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml'>https://github.com/sagarsiddhpura/SIMGuard</a></div>"
+        tagline: "I was part of team who developed Infortainment touchscreen software for Hybrid car Mazda3, launched in 2013. <br> <div ><a target='_blank' class='link-grey' href='https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml'>https://github.com/sagarsiddhpura/SIMGuard</a></div>"
 
 skills:
     title: Skills &amp; Proficiency
