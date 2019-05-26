@@ -80,7 +80,7 @@ experiences:
         I am experienced Android developer working on native android development with Java and Kotlin over <b>6+ years</b>. I develop apps for client professionally. I also develop personal hobby apps and have my app "Folder Gallery" on playstore with 50k+ downloads and 4.1+ review.
 
           - Experience: 6+ years
-          - Tools/Technology: <b>Kotlin</b>, Java, <b>Firebase</b>, Support Lib, <b>Retrofit</b>, AndroidX, Fabric, Google Analytics, Crashlytics, <b>Admob</b>, Amazon App Store, 3rd party libs, Multidex, <b>Realm</b>.
+          - Tools/Technology: <b>Kotlin</b>, Java, <b>Firebase</b>, Support Lib, <b>Retrofit</b>, AndroidX, Fabric, Google Analytics, Crashlytics, <b>Admob</b>, Amazon App Store, 3rd party libs, <b>Realm</b>, Multidex.
          
     - role: Lead Java Developer
       time: 2013 - Present
@@ -106,19 +106,19 @@ projects:
     assignments:
       - title: Folder Gallery
         link: "https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery"
-        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that."
+        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that. Link: https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery"
 
       - title: ITER - International Thermonuclear Experimental Reactor
         link: "https://www.iter.org"
-        tagline: "ITER, is a joint effort from 7 countries to build the worlds first Fusion powered nuclear reactor. I worked on customized industrial SCADA system that was used to configure the powerplant."
+        tagline: "ITER, is a joint effort from 7 countries to build the worlds first Fusion powered nuclear reactor. I worked on customized industrial SCADA system that was used to configure the powerplant. Link: https://www.iter.org"
 
       - title: SimGuard
         link: "https://github.com/sagarsiddhpura/SIMGuard"
-        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off. It was made as a part of compedition from YU smartphone OEM and I won <b>2nd place all over India</b> for this app"
+        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off. It was made as a part of compedition from YU smartphone OEM and I won <b>2nd place all over India</b> for this app. Link: https://github.com/sagarsiddhpura/SIMGuard"
 
       - title: Mazda3 Hybrid car infotainment system
         link: "https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml"
-        tagline: "I was part of team who developed Infortainment touchscreen software for Hybrid car Mazda3, launched in 2013"
+        tagline: "I was part of team who developed Infortainment touchscreen software for Hybrid car Mazda3, launched in 2013. Link: https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml"
 
 skills:
     title: Skills &amp; Proficiency
@@ -127,17 +127,17 @@ skills:
       - name: Kotlin Android Dev
         level: 99%
 
-      - name: Java full stack developement
+      - name: Java Full Stack Dev
         level: 96%
 
-      - name: Web tools and technologies
+      - name: Web Tools and Technologies
         level: 96%
 
       - name: Communication Skills
         level: 92%
 
       - name: Image Editing
-        level: 40%
+        level: 55%
 
 footer: >
     Laugh, <i class="fas fa-heart"></i> Love, Live and eat Pizzas :p
