@@ -50,14 +50,12 @@ sidebar:
 career-profile:
     title: Why Me?
     summary: |
-        Finding someone who can solve your specific technical problem on time and budget can be hard. 
-
-        If you are reading this you are probably wondering if I'm a good fit. 
+        Finding someone who can solve your specific technical problem on time and budget can be hard. If you are reading this you are probably wondering if I'm a good fit. 
         I'll say yes - but don't just take my word on it - send me a message, lets' discuss your project and see how I can help you.
 
 education:
     - degree: Bachelor of Computer Engineering
-      university: A D Patel Institite of Technology (Anand, Guj)
+      university: A D Patel Institite of Technology
       time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -74,7 +72,7 @@ experiences:
       time: 2012 - Present
       company: Red Software, India
       details: |
-        I am experienced Android developer working on native android development with Java and Kotlin over <b>6+ years</b>. I develop apps for client professionally. I also develop personal hobby apps and have my app "Folder Gallery" on playstore with 50k+ downloads and 4.1+ review.
+        I am <b>experienced Android developer</b> working on native android development with Java and Kotlin over <b>6+ years</b>. I develop apps for client professionally. I also develop personal hobby apps and have my app "Folder Gallery" on playstore with 50k+ downloads and 4.1+ review.
 
           - Experience: 6+ years
           - Tools/Technology: <b>Kotlin</b>, Java, <b>Firebase</b>, Support Lib, <b>Retrofit</b>, AndroidX, Fabric, Google Analytics, Crashlytics, <b>Admob</b>, Amazon App Store, 3rd party libs, <b>Realm</b>, Multidex.
