@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: sagarsiddhapura@gmail.com
     phone: (+91) 88668 06146
-    # website: blog.webjeda.com #do not add http://
+    # website: #do not add http://
     linkedin: sagarsiddhpura
     github: sagarsiddhpura
     gitlab:
@@ -89,7 +89,7 @@ experiences:
         I am an experienced 6+ Lead Java developer working on full stack desktop and web applications. Working in <b>ITER (International Thermonuclear Experimental Reactor)</b> was the most challenging task I have undertaken. Dealing with million variables, micro-controllers having nanosecond precision and international users, the software is customised SCADA for worlds biggest nuclear power plant. Leading the team, working with client in France and knowing that I am building something that is making real impact for all human beings is one of my most rewarding experiences.
 
           - Experience: 6 years
-          - Tools/Technologies: <b>Java</b>, Eclipse RCP, <b>Postgres/MySql</b>, <b>Hibernate</b>, <b>Spring</b>, JSP, Primefaces, <b>Tomcat</b>, Eclipse IDE, <b>Linux Red-hat</b>, SVN, <b>Jenkins</b>, Bugzilla, Agile Methodology.
+          - Tools/Technologies: <b>Java</b>, Eclipse RCP, <b>Postgres/MySql</b>, <b>Hibernate</b>, <b>Spring</b>, JSP, Primefaces, <b>Tomcat</b>, Eclipse IDE, <b>Linux Red-hat</b>, SVN, <b>Jenkins</b>, Bugzilla, <b>Agile Methodology</b>, Testing, Documentation.
           - Responsibilities: 
             - Lead the team of developers
             - Develop and maintain Desktop app, command line, webapp with bug Fixes and enhancements
@@ -114,9 +114,9 @@ projects:
 
       - title: SimGuard
         link: "https://github.com/sagarsiddhpura/SIMGuard"
-        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off. It was made as a part of all India compedition from YU smartphone OEM and I won 2nd place for this app"
+        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off. It was made as a part of compedition from YU smartphone OEM and I won <b>2nd place all over India</b> for this app"
 
-      - title: Johnson controls - Mazda3 Hybrid car infotainment system
+      - title: Mazda3 Hybrid car infotainment system
         link: "https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml"
         tagline: "I was part of team who developed Infortainment touchscreen software for Hybrid car Mazda3, launched in 2013"
 
@@ -124,20 +124,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Kotlin Android Developement (Kotlin, Firebase, Fabric)
+      - name: Kotlin Android Dev
         level: 99%
 
-      - name: Java full stack developement (Java, Hibernate, Spring, SWT, Prime Faces, Tomcat)
+      - name: Java full stack developement
         level: 96%
 
-      - name: Website building (Joomla, Wordpress, JavaScript, PHP)
+      - name: Web tools and technologies
         level: 96%
 
       - name: Communication Skills
         level: 92%
 
-      - name: Image Editing (GIMP)
+      - name: Image Editing
         level: 40%
 
 footer: >
-    Laugh, <i class="fas fa-heart"></i>Love, Live and eat Pizzas :p
+    Laugh, <i class="fas fa-heart"></i> Love, Live and eat Pizzas :p
