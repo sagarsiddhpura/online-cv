@@ -79,9 +79,8 @@ experiences:
       details: |
         I am experienced Android developer working on native android development with Java and Kotlin over 6+ years. I develop apps for client professionally. I also develop personal hobby apps and have my app "Folder Gallery" on playstore with 50k+ downloads and 4.1+ review.
 
-          - <b>Experience</b>: 6+ years
-          - Tools/Technology: Kotlin, Java, Firebase, Realm, Support Lib, Retrofit, AndroidX, Fabric, Google Analytics, Crashlytics, Admob, Amazon App Store, 3rd party libs.
-          - Miscellaneous Skills: Strong communication skills and well versed in English, Ability to code at very good speed, Good problem solving skills.
+          - Experience: 6+ years
+          - Tools/Technology: <b>Kotlin</b>, Java, <b>Firebase</b>, Realm, Support Lib, <b>Retrofit</b>, AndroidX, Fabric, Google Analytics, Crashlytics, <b>Admob</b>, Amazon App Store, 3rd party libs, Multidex.
          
     - role: Lead Java Developer
       time: 2013 - Present
@@ -90,9 +89,8 @@ experiences:
         I am an experienced 6+ Lead Java developer working on full stack desktop and web applications. Working in ITER (International Thermonuclear Experimental Reactor) was the most challenging task I have undertaken. Dealing with million variables, micro-controllers having nanosecond precision and international users, the software is customised SCADA for worlds biggest nuclear power plant. Leading the team, working with client in France and knowing that I am building something that is making real impact for all human beings is one of my most rewarding experiences.
 
           - Experience: 6 years
-          - Tools/Technologies: Java, Eclipse RCP, Postgres, Hibernate, Spring, JSP, Primefaces, Tomcat, Eclipse IDE, Linux Red-hat, SVN, Jenkins, Bugzilla, Agile Methodology.
-          - Miscellaneous Skills: Strong communication skills and well versed in English, Ability to code at very good speed, Good problem solving skills.
-          - Responsibilities: 
+          - Tools/Technologies: <b>Java</b>, Eclipse RCP, <b>Postgres/MySql</b>, <b>Hibernate</b>, <b>Spring</b>, JSP, Primefaces, <b>Tomcat</b>, Eclipse IDE, <b>Linux Red-hat</b>, SVN, <b>Jenkins</b>, Bugzilla, Agile Methodology.
+          - <b>Responsibilities</b>: 
             - Lead the team of developers
             - Develop and maintain Desktop app, command line, webapp with bug Fixes and enhancements
             - Onsite coordinator (France)
@@ -108,15 +106,15 @@ projects:
     assignments:
       - title: Folder Gallery
         link: "https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery"
-        tagline: "This app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that."
+        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that."
 
       - title: ITER - International Thermonuclear Experimental Reactor
         link: "https://www.iter.org"
-        tagline: "ITER, is a joint effort from 7 countries to build the worlds first Fusion powered nuclear reactor."
+        tagline: "ITER, is a joint effort from 7 countries to build the worlds first Fusion powered nuclear reactor. I worked on customized industrial SCADA system that was used to configure the powerplant."
 
       - title: SimGuard
         link: "https://github.com/sagarsiddhpura/SIMGuard"
-        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off."
+        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off - specially designed for India"
 
 skills:
     title: Skills &amp; Proficiency
@@ -126,13 +124,13 @@ skills:
         level: 99%
 
       - name: Java full stack developement
-        level: 90%
+        level: 96%
 
       - name: Communication Skills
-        level: 98%
+        level: 92%
 
       - name: Image Editing
         level: 40%
 
 footer: >
-    Live, Laugh, Love <i class="fas fa-heart"></i> and Live
+    Laugh, Love <i class="fas fa-heart"></i> Live and eat Pizzas :p
