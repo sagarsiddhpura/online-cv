@@ -106,7 +106,7 @@ projects:
     assignments:
       - title: Folder Gallery
         link: "https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery"
-        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that. <br> <span class='main-wrapper.time'><a href='https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml'>https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery</a></span>"
+        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that. <br> <div class='mild'><a href='https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml'>https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery</a></div>"
 
       - title: ITER - International Thermonuclear Experimental Reactor
         link: "https://www.iter.org"
