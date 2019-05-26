@@ -48,19 +48,14 @@ sidebar:
         link: 
 
 career-profile:
-    title: Career Profile
+    title: Why Me?
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+        Finding someone who can solve your specific technical problem on time and budget can be hard. If you are reading this you are probably wondering if I'm a good fit. 
+        I'll say yes - but don't just take my word on it - send me a message, lets' discuss your project and see how I can help you.
 
 education:
     - degree: Bachelor of Computer Engineering
-      university: A D Patel Institite of Technology (Anand, Guj)
+      university: A D Patel Institite of Technology
       time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -77,7 +72,7 @@ experiences:
       time: 2012 - Present
       company: Red Software, India
       details: |
-        I am experienced Android developer working on native android development with Java and Kotlin over <b>6+ years</b>. I develop apps for client professionally. I also develop personal hobby apps and have my app "Folder Gallery" on playstore with 50k+ downloads and 4.1+ review.
+        I am <b>experienced Android developer</b> working on native android development with Java and Kotlin over <b>6+ years</b>. I develop apps for client professionally. I also develop personal hobby apps and have my app "Folder Gallery" on playstore with 50k+ downloads and 4.1+ review.
 
           - Experience: 6+ years
           - Tools/Technology: <b>Kotlin</b>, Java, <b>Firebase</b>, Support Lib, <b>Retrofit</b>, AndroidX, Fabric, Google Analytics, Crashlytics, <b>Admob</b>, Amazon App Store, 3rd party libs, <b>Realm</b>, Multidex.
@@ -86,17 +81,16 @@ experiences:
       time: 2013 - Present
       company: Tata Consultancy Services, India
       details: |
-        I am an experienced 6+ Lead Java developer working on full stack desktop and web applications. Working in <b>ITER (International Thermonuclear Experimental Reactor)</b> was the most challenging task I have undertaken. Dealing with million variables, micro-controllers having nanosecond precision and international users, the software is customised SCADA for worlds biggest nuclear power plant. Leading the team, working with client in France and knowing that I am building something that is making real impact for all human beings is one of my most rewarding experiences.
+        I am an experienced 6+ Lead Java developer working on full stack desktop and web applications. Working in <b>ITER (International Thermonuclear Experimental Reactor)</b> was the most challenging task I have undertaken. Dealing with million variables, micro-controllers having nanosecond precision and international users, the software is customised SCADA for worlds biggest nuclear power plant. Leading the team, <b>working with client in France</b> and knowing that I am building something that is making real impact for all human beings is one of my most rewarding experiences.
 
           - Experience: 6 years
           - Tools/Technologies: <b>Java</b>, Eclipse RCP, <b>Postgres/MySql</b>, <b>Hibernate</b>, <b>Spring</b>, JSP, Primefaces, <b>Tomcat</b>, Eclipse IDE, <b>Linux Red-hat</b>, SVN, <b>Jenkins</b>, Bugzilla, <b>Agile Methodology</b>, Testing, Documentation.
           - Responsibilities: 
             - Lead the team of developers
-            - Develop and maintain Desktop app, command line, webapp with bug Fixes and enhancements
+            - Develop and maintain Desktop app, command line, webapp (Enhancements and Bug Fixes)
             - Onsite coordinator (France)
-            - Client communication including conducting status calls and meetings
+            - Client communication including conducting status calls, meetings, progress reporting, billing etc 
             - Solving challenges like handling million variables, writing 10 gb/s data etc.
-            - Choosing best possible implementations from X solutions. Ensure scalability over quick-solution
             - Team training and competency building
 
 projects:
@@ -106,19 +100,19 @@ projects:
     assignments:
       - title: Folder Gallery
         link: "https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery"
-        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that. Link: https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery"
+        tagline: "With 50,000+ downlaods and 4.1+ ratings, this app lets you create personal gallery from selected folder. Opening gallery apps expose other folders and photos also. There maybe times when you want to show only selected folders and its images to others. This app lets you do just that. <br> <div ><a target='_blank' class='link-grey' href='https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery'>https://play.google.com/store/apps/details?id=com.siddworks.android.mygallery</a></div>"
 
       - title: ITER - International Thermonuclear Experimental Reactor
         link: "https://www.iter.org"
-        tagline: "ITER, is a joint effort from 7 countries to build the worlds first Fusion powered nuclear reactor. I worked on customized industrial SCADA system that was used to configure the powerplant. Link: https://www.iter.org"
+        tagline: "ITER, is a joint effort from 7 countries to build the worlds first Fusion powered nuclear reactor. I worked on customized industrial SCADA system that was used to configure the powerplant. <br> <div ><a target='_blank' class='link-grey' href='https://www.iter.org'>https://www.iter.org</a></div>"
 
       - title: SimGuard
         link: "https://github.com/sagarsiddhpura/SIMGuard"
-        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off. It was made as a part of compedition from YU smartphone OEM and I won <b>2nd place all over India</b> for this app. Link: https://github.com/sagarsiddhpura/SIMGuard"
+        tagline: "Simguard is anti-theft app designed to work specially where data/GPS might be off. It was made as a part of compedition from YU smartphone OEM and I won <b>2nd place all over India</b> for this app. <br> <div ><a target='_blank' class='link-grey' href='https://github.com/sagarsiddhpura/SIMGuard'>https://github.com/sagarsiddhpura/SIMGuard</a></div>"
 
       - title: Mazda3 Hybrid car infotainment system
         link: "https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml"
-        tagline: "I was part of team who developed Infortainment touchscreen software for Hybrid car Mazda3, launched in 2013. Link: https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml"
+        tagline: "I was part of team who developed Infortainment touchscreen software for Hybrid car Mazda3, launched in 2013. <br> <div ><a target='_blank' class='link-grey' href='https://paultan.org/2013/10/14/mazda3-hybrid-launched-japan-gets-30-kml'>https://github.com/sagarsiddhpura/SIMGuard</a></div>"
 
 skills:
     title: Skills &amp; Proficiency
@@ -140,4 +134,4 @@ skills:
         level: 55%
 
 footer: >
-    <i class="fas fa-laugh"></i> Laugh, <i class="fas fa-heart"></i> Love, <i class="fas fa-hand-spock"></i> Live and eat <i class="fas fa-pizza-slice"></i> Pizzas :p
+    <i class="fas fa-laugh"></i> Laugh, <i class="fas fa-heart"></i> Love, <i class="fas fa-coffee"></i> Code and <i class="fas fa-utensils"></i> Eat Pizza :p 

@@ -24,6 +24,10 @@ a {
     }
 }
 
+.link-grey {
+    color: #97AAC3;
+}
+
 p {
     line-height: 1.5;
 }
@@ -50,7 +54,7 @@ p {
     .profile-container {
         padding: 30px;
         //background: darken($theme-color, 10%);
-        background: rgba(0, 0, 0, 0.2);
+        background: rgba(0, 0, 0, 0.12);
         text-align: center;
         color: #fff;
     }
@@ -161,7 +165,7 @@ p {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
-        color: darken($theme-color, 15%);
+        color: darken($theme-color, 0%);
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
@@ -247,7 +251,7 @@ p {
     }
     .level-bar {
         height: 12px;
-        background: $smoky-white;
+        background: lighten($theme-color, 52%);
     }
     .level-bar-inner {
         height: 12px;
@@ -269,5 +273,17 @@ p {
     .fa-heart {
         color: $heart;
     }
-
+    
+    .fa-laugh {
+        color: #ffc107;
+    }
+    
+    .fa-coffee {
+        color: #795548;
+    }
+    
+    .fa-utensils {
+        color: #F44336;
+    }
+    
 }
