@@ -50,13 +50,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+        Finding someone who can solve your specific technical problem on time and budget can be hard. 
 
-      Second paragraph if required.
+        If you are reading this you are probably wondering if I'm a good fit. 
+        I'll say yes - but don't just take my word on it - send me a message, lets' discuss your project and see how I can help you.
 
 education:
     - degree: Bachelor of Computer Engineering
@@ -86,17 +83,16 @@ experiences:
       time: 2013 - Present
       company: Tata Consultancy Services, India
       details: |
-        I am an experienced 6+ Lead Java developer working on full stack desktop and web applications. Working in <b>ITER (International Thermonuclear Experimental Reactor)</b> was the most challenging task I have undertaken. Dealing with million variables, micro-controllers having nanosecond precision and international users, the software is customised SCADA for worlds biggest nuclear power plant. Leading the team, working with client in France and knowing that I am building something that is making real impact for all human beings is one of my most rewarding experiences.
+        I am an experienced 6+ Lead Java developer working on full stack desktop and web applications. Working in <b>ITER (International Thermonuclear Experimental Reactor)</b> was the most challenging task I have undertaken. Dealing with million variables, micro-controllers having nanosecond precision and international users, the software is customised SCADA for worlds biggest nuclear power plant. Leading the team, <b>working with client in France</b> and knowing that I am building something that is making real impact for all human beings is one of my most rewarding experiences.
 
           - Experience: 6 years
           - Tools/Technologies: <b>Java</b>, Eclipse RCP, <b>Postgres/MySql</b>, <b>Hibernate</b>, <b>Spring</b>, JSP, Primefaces, <b>Tomcat</b>, Eclipse IDE, <b>Linux Red-hat</b>, SVN, <b>Jenkins</b>, Bugzilla, <b>Agile Methodology</b>, Testing, Documentation.
           - Responsibilities: 
             - Lead the team of developers
-            - Develop and maintain Desktop app, command line, webapp with bug Fixes and enhancements
+            - Develop and maintain Desktop app, command line, webapp (Enhancements and Bug Fixes)
             - Onsite coordinator (France)
-            - Client communication including conducting status calls and meetings
+            - Client communication including conducting status calls, meetings, progress reporting, billing etc 
             - Solving challenges like handling million variables, writing 10 gb/s data etc.
-            - Choosing best possible implementations from X solutions. Ensure scalability over quick-solution
             - Team training and competency building
 
 projects:
