@@ -24,6 +24,19 @@ a {
     }
 }
 
+.mild {
+    a {
+        color: rgba(256, 256, 256, 0.6);
+        &:hover {
+            text-decoration: underline;
+            color: darken($theme-color, 30%);
+        }
+        &:focus {
+            text-decoration: none;
+        }
+    }
+}
+
 p {
     line-height: 1.5;
 }
